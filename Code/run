@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -ex
+
+
+# Change to the directory of this script so MATLAB finds the .m file
+cd "$(dirname "$0")"
+
+# matlab -nodisplay -nosoftwareopengl -r "Run_Figure2c; exit"
+
+# matlab -nodisplay -nosoftwareopengl -r "Run_Figure2b; exit"
+
+# matlab -nodisplay -nosoftwareopengl -r "Run_FigureS1; exit"
+
+# matlab -nodisplay -nosoftwareopengl -r "Run_Figure3cd; exit"
+
+# matlab -nodisplay -nosoftwareopengl -r "Run_FigureS2; exit"
+
+# matlab -nodisplay -nosoftwareopengl -r "Run_FigureS4; exit"
+
+matlab -nodisplay -nosoftwareopengl -r "Run_All_Figures; exit;"
