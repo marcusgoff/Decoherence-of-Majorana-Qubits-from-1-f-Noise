@@ -29,7 +29,7 @@ You may also run individual figures by opening the "code" directory, then openin
 
 Requires MATLAB2024a or more recent. 
 
-### Output
+## Output
 All figures are outputted into the folder "results" and are titled according to their corresponding figure and panel in the main text or Supplementary Information of our paper. Additionally, the corresponding MATLAB workspaces generated for each figure are saved in the results folder. 
 
 ## Troubleshooting
