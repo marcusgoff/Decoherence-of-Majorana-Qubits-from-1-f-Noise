@@ -7,7 +7,7 @@ This repository contains the code used to generate all numerical results present
 Note that since our numerical results are statistical averages over multiple two-level-fluctuator (TLF) noise realisations, we expect minor differences in the plots between consecutive runs. 
 
 ## How to Run the Code
-To run this code locally on your machine by clicking on the green "code" drop down menu at the top of this page, then click "download zip" and unzip the contents in a local directory. Then, open the "code" directory, then open "Run_all_Figures.m" in MATLAB. Select the "editor tab" in Matlab and then select "run" to generate all figures in the paper (if prompted to Change Folder to the current directory by the Matlab editor, choose Change Folder, which is the highlighted option). The key figure, Fig. 2b, is generated first and takes under 2 hours. You may choose "stop run" after this time to view the key figure in the "results" directory. Generating the remaining figures may take more than 24 hours.
+To run this code locally on your machine by click on the green "code" drop down menu at the top of this page, then click "download zip" and unzip the contents in a local directory. Then, open the "code" directory and open "Run_all_Figures.m" in MATLAB. Select the "editor tab" in Matlab and then select "run" to generate all figures in the paper (if prompted to Change Folder to the current directory by the Matlab editor, choose Change Folder, which is the highlighted option). The key figure, Fig. 2b, is generated first and takes under 2 hours. You may choose "stop run" after this time to view the key figure in the "results" directory. Generating the remaining figures may take more than 24 hours.
 
 Run_code_demo run time (tested on a Macbook bro): 4 minutes
 
