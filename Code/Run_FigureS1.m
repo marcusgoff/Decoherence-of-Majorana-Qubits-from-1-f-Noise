@@ -37,6 +37,7 @@ fprintf('\n Running Run_FigureS1 \n');
 %% Load Bespoke Quasiparticle Poisoning Library 
 addpath('QPP_Library_submit')
 
+warning('off', 'all');
 % - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 %% Load Constants from Table 1 in the Supplementary Information
 run load_constants.m
