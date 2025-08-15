@@ -20,7 +20,7 @@
 % Description:
 %   - Demo code which runs in under 10 minutes. Calculates and plots P_qpp
 %     as a function of time for L = 3 microns, and for a TLF rate of 200
-%     GHz, for 3 nanosecond or untill P_{qpp} = 0.1 (whichever occurs first),
+%     GHz, for 3 nanoseconds or untill P_{qpp} = 0.1 (whichever occurs first),
 %     this corresponds to the yellow line in figure 2b in the main tex). 
 %
 % Requirements:
