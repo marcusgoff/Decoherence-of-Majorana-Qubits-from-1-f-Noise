@@ -42,7 +42,7 @@ addpath('QPP_Library_submit')
 %% Load Constants from Table 1 in the Supplementary Information
 run load_constants.m
 
-warning('off', 'all')
+warning('off', 'all');
 % - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 %% Declare Simulation Input Parameters
 
