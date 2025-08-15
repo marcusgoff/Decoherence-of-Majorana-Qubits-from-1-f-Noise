@@ -1,4 +1,4 @@
-# Decoherence of Majorana Qubits From 1/f Noise
+# Decoherence of Majorana Qubits from 1/f Noise
 
 Code for all numerical calculations in *A. Alase, M. C. Goffage, M. C. Cassidy, S. N. Coppersmith (2025), Decoherence of Majorana Qubits from 1/f Noise, arXiv preprint: arXiv:2506.22394.*
 
