@@ -323,5 +323,5 @@ saveas(gcf, '../results/demo_figure.svg');
 
 % - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 %% Save Data
-close all;
+%close all;
 save('../results/demo_figure');
