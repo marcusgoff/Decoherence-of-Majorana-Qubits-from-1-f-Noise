@@ -22,7 +22,7 @@ Requires MATLAB 2024a or more recent.
 2. Select **"Download ZIP"**.  
 3. Unzip the contents into a local directory.  
 4. Open **`Run_Code_Demo.m`** or **`Run_all_Figures.m`** in MATLAB.  
-5. In MATLAB, go to the **Editor** tab and click **Run**.  
+5. In MATLAB, go to the **Editor** tab, select the **Editor** tab and then select **Run**.  
 6. If prompted to *Change Folder* to the current directory, choose **Change Folder** (highlighted option).  
 
 ---
