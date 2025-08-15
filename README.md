@@ -23,7 +23,7 @@ Run_code_demo run time (tested on a Macbook bro): 4 minutes
 
 Run_all_figures run time: >72 hours. 
 
-You may also run individual figures by opening the "code" directory, then opening the figure run script of interest in Matlab (for example Run_Figure2b.m). You may then run the code for just that figure in MATLAB by selecting "run". Note that Run_Figurecd.m requires you to first execute Run_FigureS1.m and Run_FigureS2.m requires you to first executre Run_Figure2c.m. 
+You may also run individual figures by opening the "code" directory, then opening the figure run script of interest in Matlab (for example Run_Figure2b.m). You may then run the code for just that figure in MATLAB by selecting **Run**. Note that Run_Figurecd.m requires you to first execute Run_FigureS1.m and Run_FigureS2.m requires you to first executre Run_Figure2c.m. 
 
 ## Output
 All figures are outputted into the folder "results" and are titled according to their corresponding figure and panel in the main text or Supplementary Information of our paper. Additionally, the corresponding MATLAB workspaces generated for each figure are saved in the results folder. 
