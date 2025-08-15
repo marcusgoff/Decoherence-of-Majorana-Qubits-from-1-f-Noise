@@ -7,8 +7,6 @@ This repository contains the code used to generate all numerical results present
 Note that since our numerical results are statistical averages over multiple two-level-fluctuator (TLF) noise realisations, we expect minor differences in the plots between consecutive runs. 
 
 ## How to Run the Code
-To run this code locally on your machine by click on the green "code" drop down menu at the top of this page, then click "download zip" and unzip the contents in a local directory. Then, open either "Run_Code_Demo.m" or "Run_all_Figures.m" in MATLAB. Select the "editor tab" in Matlab and then select "run" (if prompted to Change Folder to the current directory by the Matlab editor, choose Change Folder, which is the highlighted option). 
-
 1. Click the green **"Code"** drop-down menu at the top of this page.  
 2. Select **"Download ZIP"**.  
 3. Unzip the contents into a local directory.  
@@ -17,11 +15,11 @@ To run this code locally on your machine by click on the green "code" drop down 
 6. If prompted to *Change Folder* to the current directory, choose **Change Folder** (highlighted option).  
 
 ## Code Demo - Program Details
-"Run_Code_Demo.m" generates the yellow line in Fig. 2b, which is $P_{QPP}$ versus time for a 3 micron nanowire. This is a key numerical result in the paper. 
+**`Run_Code_Demo.m` generates the yellow line in Fig. 2b, which is $P_{QPP}$ versus time for a 3 micron nanowire. This is a key numerical result in the paper. 
 Run_code_demo run time (tested on a Macbook bro): 4 minutes
 
 ## Run All Figures - Program Details
-"Run_all_Figures.m" generates all numerical results and corresponding figures presented in the paper. 
+**`Run_all_Figures.m`** generates all numerical results and corresponding figures presented in the paper. 
 
 Run_all_figures run time: >72 hours. 
 
