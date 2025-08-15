@@ -1,5 +1,5 @@
 # Decoherence-of-Majorana-Qubits-From-1-f-Noise
-Covariance Matrix Method Code for "A. Alase, M. C. Goffage, M. C. Cassidy, S. N. Coppersmith (2025), Decoherence of Majorana Qubits from 1/f Noise, arxiv preprint: 	arXiv:2506.22394."
+Code for all numerical calculations in "A. Alase, M. C. Goffage, M. C. Cassidy, S. N. Coppersmith (2025), Decoherence of Majorana Qubits from 1/f Noise, arxiv preprint: 	arXiv:2506.22394."
 # Implementation of QPP_Library for: Decoherence in Majoraba Qubits by 1/f Noise
 
 This repository contains the code used to generate all numerical results presented in our paper "A. Alase, M. C. Goffage, M. C. Cassidy, S. N. Coppersmith, Decoherence in Majorana Qubits by 1/f Noise (2025)". This code uses the covariance matrix method to calculate the time evolution of the tetron qubit, composed of two Kitaev chains, in the presence of a two-level-fluctuator (TLF) and returns the probability of exciting a quasiparticle pair in a single Kiteav chain of the qubit. See Appendix B of our earlier paper, "M. C. Goffage, A. Alase, M. C. Cassidy, S. N. Coppersmith, Leakage at zero temperature from changes in chemical potential in Majorana qubits, arXiv:2504.17485 (2025)", for further details on the method. 
