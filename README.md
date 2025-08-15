@@ -19,7 +19,7 @@ Note that since our numerical results are statistical averages over multiple two
 Run_code_demo run time (tested on a Macbook bro): 4 minutes
 
 ## Program Details - Run All Figures
-**`Run_all_Figures.m`** generates all numerical results and corresponding figures presented in the paper. **`Run_all_Figures.m`** generates the figures, in order: Fig. 2c, Fig. 2b, Fig. S1, Fig. 3c, Fig. 3d, Fig. S2, and then Fig. S4. 
+**`Run_all_Figures.m`** generates all numerical results and corresponding figures presented in the paper. **`Run_all_Figures.m`** generates the figures, in order: Fig. 2c, Fig. 2b, Fig. S1, Fig. 3c, Fig. 3d, Fig. S2, and Fig. S4. 
 
 Run_all_figures run time: >72 hours. 
 
