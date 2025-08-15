@@ -21,7 +21,7 @@
 %   Runs the full code for all numerical results presented in our paper and 
 %   plots the figures.
 % Expected Run Time:
-%   >72 hours (tested on a Macbook pro). 
+%   >72 hours. 
 %
 % Requirements:
 %   - MATLAB R2024 or newer
