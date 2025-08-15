@@ -41,6 +41,7 @@ fprintf('\n Running Run_Figure3cd \n');
 %% Load Results from Run_FigureS1
 load('../results/figure_S1_data');
 
+warning('off', 'all');
 % - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 %% Extract the maxima
 
