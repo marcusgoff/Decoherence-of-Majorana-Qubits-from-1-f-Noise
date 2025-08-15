@@ -12,6 +12,11 @@ Note that since our numerical results are statistical averages over multiple two
 
 ---
 
+## Environment and Dependencies
+Requires MATLAB 2024a or more recent.  
+
+---
+
 ## How to Run the Code
 1. Click the green **"Code"** drop-down menu at the top of this page.  
 2. Select **"Download ZIP"**.  
@@ -40,11 +45,6 @@ You may also run individual figures by opening the **`code`** directory, then op
 
 ## Output
 All figures are output into the folder **`results`** and are titled according to their corresponding figure and panel in the main text or Supplementary Information of our paper. Additionally, the corresponding MATLAB workspaces generated for each figure are saved in the **`results`** folder.  
-
----
-
-## Environment and Dependencies
-Requires MATLAB 2024a or more recent.  
 
 ---
 
