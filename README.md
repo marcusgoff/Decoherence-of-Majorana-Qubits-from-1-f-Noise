@@ -14,20 +14,16 @@ Note that since our numerical results are statistical averages over multiple two
 5. In MATLAB, go to the **Editor** tab and click **Run**.  
 6. If prompted to *Change Folder* to the current directory, choose **Change Folder** (highlighted option).  
 
-## Code Demo - Program Details
+## Program Details - Code Demo
 **`Run_Code_Demo.m` generates the yellow line in Fig. 2b, which is $P_{QPP}$ versus time for a 3 micron nanowire. This is a key numerical result in the paper. 
 Run_code_demo run time (tested on a Macbook bro): 4 minutes
 
-## Run All Figures - Program Details
-**`Run_all_Figures.m`** generates all numerical results and corresponding figures presented in the paper. 
+## Program Details - Run All Figures
+**`Run_all_Figures.m`** generates all numerical results (using the covariance matrix method) and corresponding figures presented in the paper. **`Run_all_Figures.m`** generates the figures, in order: Fig. 2c, Fig. 2b, Fig. S1, Fig. 3c, Fig. 3d, Fig. S2, and then Fig. S4. 
 
 Run_all_figures run time: >72 hours. 
 
 You may also run individual figures by opening the "code" directory, then opening the figure run script of interest in Matlab (for example Run_Figure2b.m). You may then run the code for just that figure in MATLAB by selecting "run". Note that Run_Figurecd.m requires you to first execute Run_FigureS1.m and Run_FigureS2.m requires you to first executre Run_Figure2c.m. 
-
-
-## Structure of the Code
-This code runs our full covariance matrix code and generates all figures in our paper which present numerical results. Run_all_Figures.m generates the figures, in order: Fig. 2c, Fig. 2b, Fig. S1, Fig. 3c, Fig. 3d, Fig. S2, and then Fig. S4. 
 
 ## Environment and Dependencies
 
