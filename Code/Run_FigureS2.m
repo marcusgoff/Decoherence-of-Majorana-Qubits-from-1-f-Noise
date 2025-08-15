@@ -41,6 +41,7 @@ clear all;
 %% Load Results from Run_Figure2c
 load('../results/figure_2c_data');
 
+warning('off', 'all');
 % - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 %% Plot Gamma Max Results
 
