@@ -26,7 +26,6 @@
 % Requirements:
 %   - MATLAB R2024 or newer
 %   - Dependencies: functions in /QPP_Library directory. 
-%   - Run_Figure_2c must be run before this script
 %
 % Output:
 %   - Saves Figure_2b in the ./results
